@@ -1,0 +1,15 @@
+.spoon {
+	grid-column: 1;
+}
+
+.console {
+  grid-column: 2;
+}
+
+.chair{
+  grid-column: 3;
+}
+
+.pottery {
+  grid-column: 1;
+}

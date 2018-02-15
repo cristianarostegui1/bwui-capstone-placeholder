@@ -1,0 +1,13 @@
+.nesting {
+  grid-column: 1;
+}
+
+.side {
+  grid-column: 2;
+}
+
+.coffee {
+  grid-column: 3;
+}
+
+

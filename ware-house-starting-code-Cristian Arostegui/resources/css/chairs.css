@@ -1,0 +1,16 @@
+.basket {
+  grid-column: 1;
+}
+
+.orange {
+  grid-column: 2;
+}
+
+.yellow {
+  grid-column: 3;
+}
+
+.white {
+  grid-column: 1;
+}
+

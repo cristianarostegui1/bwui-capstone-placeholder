@@ -1,0 +1,12 @@
+.sofas {
+  grid-column: 1;
+}
+
+.chairs {
+  grid-column: 2;
+}
+
+.tables {
+  grid-column: 3;
+}
+

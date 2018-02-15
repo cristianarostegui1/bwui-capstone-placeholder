@@ -1,0 +1,35 @@
+.living-p {
+	grid-column: 1;
+}
+
+.bedroom-p {
+  grid-column: 2;
+}
+
+.bathroom-p {
+  grid-column: 3;
+}
+
+.dining-p {
+  grid-column: 1;
+}
+
+.kitchen-p {
+  grid-column: 2;
+}
+
+.lighting-p {
+  grid-column: 3;
+}
+
+.office-p {
+  grid-column: 1;
+}
+
+.patio-p {
+  grid-column: 2;
+}
+
+.tools-p {
+  grid-column: 3;
+}

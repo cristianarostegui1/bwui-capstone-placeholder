@@ -1,0 +1,14 @@
+.grey{
+	grid-column: 1;
+}
+
+.charcoal {
+  grid-column: 2;
+}
+
+.white {
+  grid-column: 3;
+}
+
+
+

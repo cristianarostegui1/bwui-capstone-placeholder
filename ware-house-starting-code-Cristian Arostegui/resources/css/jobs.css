@@ -1,0 +1,53 @@
+main {
+  text-align: left;
+  justify-items: auto;
+}
+
+.jobs {
+  padding: 1.75rem 11.75rem 5rem 11.75rem;
+}
+
+.jobs h1 {
+  margin-bottom: 3rem;
+  font-size: 40px;
+  text-align: center;
+  margin-top: 0rem;
+  padding-top:3rem;
+}
+
+form {
+  display: grid;
+  grid-template-columns: repeat(2, 2fr) 1fr;
+  align-items: flex-end;
+  margin-bottom: 3.125rem;
+  grid-column-gap: 10px;
+}
+
+#name input {
+  border: solid 1px #e5b413;
+}
+
+main form .button {
+  height: fit-content;
+  padding: 1.14rem 0;
+}
+
+.job-list {
+  border-top: solid 1px #e5b413;
+}
+
+.job {
+  border-bottom: solid 1px #e5b413;
+  padding: 1rem 0;
+}
+
+.job h4 {
+  padding-bottom: .5rem;
+  font-size: inherit;
+  line-height: 1.2;
+}
+
+#see-all-jobs {
+  justify-self: center;
+  margin-top: 3.6875rem;
+}
